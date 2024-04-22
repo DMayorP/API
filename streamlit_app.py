@@ -1,5 +1,3 @@
-pip install st-aggrid
-from st_aggrid import AgGrid 
 import streamlit as st
 import pandas as pd 
 import pandas_profiling
@@ -15,7 +13,7 @@ import re
 import matplotlib.pyplot as plt
 from io import BytesIO
 import base64
-
+from st_aggrid import AgGrid 
 import pandas as pd
 import numpy as np
 import streamlit as st
