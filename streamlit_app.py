@@ -1,3 +1,4 @@
+from st_aggrid import AgGrid 
 import streamlit as st
 import pandas as pd 
 import pandas_profiling
