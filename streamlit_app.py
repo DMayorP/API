@@ -1,4 +1,3 @@
-pip install st_aggrid
 from st_aggrid import AgGrid 
 import streamlit as st
 import pandas as pd 
