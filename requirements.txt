@@ -1,3 +1,10 @@
-streamlit==1.24.1
-pandas>2.0
-numpy<=1.25.1
+tweepy==3.9.0
+xlrd==1.2.0
+openpyxl==3.0.4
+contexto==0.1.0
+streamlit==1.13.0
+plotly==4.10.0
+markdown==3.2.2
+pytz==2020.1
+click==7.1.2
+protobuf==3.20.0
