@@ -11,6 +11,7 @@ streamlit-date-picker
 streamlit_extras
 ydata_profiling
 reportlab==4.2.0
+openpyxl
 #reportlab
 
 
