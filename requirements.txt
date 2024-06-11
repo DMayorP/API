@@ -1,11 +1,11 @@
 streamlit
-streamlit-aggrid
+st-aggrid
 pandas
-pandas-profiling==3.2.0
+pandas-profiling==3.1.0
 streamlit-pandas-profiling==0.1.3
 Pillow
 numpy
 reportlab
-pydantic==1.10.2
+pydantic==1.8.2
 streamlit-extras
 streamlit-date-picker
