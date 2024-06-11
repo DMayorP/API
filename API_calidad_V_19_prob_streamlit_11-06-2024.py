@@ -597,7 +597,6 @@ def imprimir_parrafo(puntero_y, parrafo, doc_pdf, cabecera, numero_pagina, negri
             imprimir_cabecera(cabecera, doc_pdf)
             puntero_y = alto_util + margen_inferior - tamano_parrafo
             numero_pagina += 1
-            
     # Dibujar la última línea si es necesario
     if linea_actual:
         try:
