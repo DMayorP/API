@@ -1,12 +1,10 @@
 streamlit
+streamlit-aggrid
 pandas
-pandas_profiling
-streamlit-pandas-profiling
+sweetviz
 Pillow
 numpy
-#pydantic
-pydantic==1.*
-streamlit-aggrid
+reportlab
+pydantic==1.8.2
+streamlit-extras
 streamlit-date-picker
-streamlit_extras
-ydata_profiling
