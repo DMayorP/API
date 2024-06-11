@@ -1,5 +1,5 @@
 streamlit
-#st-aggrid
+streamlit-aggrid
 pandas
 pandas-profiling
 streamlit-pandas-profiling
