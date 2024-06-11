@@ -4,7 +4,9 @@ import streamlit as st
 import pandas as pd 
 import pandas_profiling
 from streamlit_pandas_profiling import st_profile_report
-from pandas_profiling import ProfileReport
+#from pandas_profiling import ProfileReport
+#from pydantic import BaseSettings
+from ydata_profiling import ProfileReport
 from  PIL import Image
 import os
 import re
